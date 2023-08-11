@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo dos del precourse de Henry
+claudia trejo
+este repositorio es una prueba decomo trabajar en el de forma local 
